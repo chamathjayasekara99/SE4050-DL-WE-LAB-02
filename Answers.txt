@@ -1,0 +1,4 @@
+2) i. The loss value decreases  and accuracy increases
+ii. Accuracy increases steadily until it reaches a plateau. This is because the network eventually learns the relationship between the input and output data and is able to make accurate predictions with a small number of hidden nodes. However, increasing the number of hidden nodes beyond this point does not significantly improve the accuracy of the network.
+
+3) i.
